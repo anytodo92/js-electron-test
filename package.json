@@ -14,7 +14,7 @@
   "keywords": [],
   "author": {
     "name": "anytodo92",
-    "email": "anything.todo92@gmail.com"
+    "email": "anything.todo292@gmail.com"
   },
   "config": {
     "forge": {
@@ -23,7 +23,7 @@
         {
           "name": "@electron-forge/maker-squirrel",
           "config": {
-            "name": "electron_publish_example"
+            "name": "js-electron-test"
           }
         },
         {
@@ -46,8 +46,8 @@
           "name": "@electron-forge/publisher-github",
           "config": {
             "repository": {
-              "owner": "erikhofer",
-              "name": "electron-publish-example",
+              "owner": "anytodo92",
+              "name": "js-electron-test",
               "draft": true
             }
           }
