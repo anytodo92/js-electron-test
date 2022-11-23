@@ -16,6 +16,7 @@
     "name": "anytodo92",
     "email": "anything.todo292@gmail.com"
   },
+  "license": "MIT",
   "config": {
     "forge": {
       "packagerConfig": {},
